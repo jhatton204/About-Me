@@ -2,7 +2,7 @@
 
 <h2>☁️ Cloud Computing Projects: </h2>
 
-<b>AWS Project</b>
+<b>[AWS Project](https://www.linkedin.com/pulse/hosting-wordpress-website-aws-beginner-jeremy-hatton)</b>
   
   - Deployed and hosted a highly-available WordPress application leveraging various AWS technologies including: EC2, RDS, Route 53, ASG and VPC.
 
@@ -15,6 +15,9 @@
 <b> SIEM Lab Project</b>
    
   * [Practicing with SIEM tools and Azure](https://github.com/jhatton1/SIEM-Project/blob/main/README.md)
+
+<b> Vulnerability Management and Remediation</b>  
+  * [Practicing Vulnerability Management with Nessus](https://github.com/jhatton1/Vulnerablity-MGMT-Lab/blob/main/README.md)
 <h2>📋 Certifications:</h2>
   
  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1763751f-9b01-4861-bdb5-05c92dd1dc66/public_url)
