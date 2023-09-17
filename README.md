@@ -2,13 +2,13 @@
 
 <h2>☁️ Cloud Computing Projects: </h2>
 
-<b>[AWS Project](https://www.linkedin.com/pulse/hosting-wordpress-website-aws-beginner-jeremy-hatton)</b>
+<b>AWS Project</b>
   
-  - Deployed and hosted a highly-available WordPress application leveraging various AWS technologies including: EC2, RDS, Route 53, ASG and VPC.
+  - [Deployed and hosted a highly-available WordPress application leveraging various AWS technologies including: EC2, RDS, Route 53, ASG and VPC.](https://www.linkedin.com/pulse/hosting-wordpress-website-aws-beginner-jeremy-hatton)
 
-  <b>[DevOps | CI/CD Project](https://github.com/jhatton1/terraform_projects)</b>
+  <b>DevOps | CI/CD Project</b>
 
-  - Utilized Terraform to create various AWS resources such as EC2, S3, and VPC.
+  - [Utilized Terraform to create various AWS resources such as EC2, S3, and VPC.](https://github.com/jhatton1/terraform_projects)
 
 <h2>🔒 Cybersecurity Projects</h2>
  
