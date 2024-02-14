@@ -30,10 +30,10 @@ add, update, view, and delete users that are stored in a MySql database.
  
 <b> SIEM Lab Project</b>
    
-  * Practicing with [SIEM tools](https://github.com/jhatton1/SIEM-Project/blob/main/README.md) and Azure
+  * Practicing with [SIEM tools](https://github.com/jhatton1/SIEM-Project) and Azure
 
 <b> Vulnerability Management and Remediation</b>  
-  * Practicing [Vulnerability Management](https://github.com/jhatton1/Vulnerablity-MGMT-Lab/blob/main/README.md) with Nessus.
+  * Practicing [Vulnerability Management](https://github.com/jhatton1/Vulnerablity-MGMT-Lab) with Nessus.
 <h2>📋 Certifications:</h2>
   
  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1763751f-9b01-4861-bdb5-05c92dd1dc66/public_url)
