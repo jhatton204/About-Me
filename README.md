@@ -1,23 +1,39 @@
 <h1>Hi, I'm Jeremy! 
 
+<h2> :computer: Software Development Projects: </h2>
+<b>Web Portfolio</b>
+
+  - Created and deployed an interactive web [portfolio](https://jeremy-web-portfolio.netlify.app/) showcasing comprehensive details on my background as well as three projects with brief descriptions, Githup repository, and live deployment links.
+
+<b>Fullstack Crud Application</b>
+
+  - Created and deployed a fullstack CRUD application utilizing a Java Spring Boot [backend](https://github.com/jhatton1/fullstack-backend) and a React [frontend](https://github.com/jhatton1/fullstack-front) which allows users to <br>
+add, update, view, and delete users that are stored in a MySql database.
+
+<b>Studio Ghibli Applicaton</b>
+  - Created and deployed a Vite + React web [application](https://github.com/jhatton1/ghibli-app) that consumes the Studio Ghibli api to provide users with information about Studio Ghibli films, people, and locations.
+
+<b>Miata Web Scraper</b>
+  - Created and deployed an Express.js [web scraper](https://github.com/jhatton1/miata-web-scraper) that automatically pulls prices of Mazda Miatas from Facebook Marketplace at a specified interval and stores it in a MongoDB database using Puppeteer and CRON.
+
 <h2>☁️ Cloud Computing Projects: </h2>
 
 <b>AWS Project</b>
   
-  - [Deployed and hosted a highly-available WordPress application leveraging various AWS technologies including: EC2, RDS, Route 53, ASG and VPC.](https://www.linkedin.com/pulse/hosting-wordpress-website-aws-beginner-jeremy-hatton)
+  - Deployed and hosted a highly-available WordPress [application](https://www.linkedin.com/pulse/hosting-wordpress-website-aws-beginner-jeremy-hatton) leveraging various AWS technologies including: EC2, RDS, Route 53, ASG and VPC.
 
   <b>DevOps | CI/CD Project</b>
 
-  - [Utilized Terraform to create various AWS resources such as EC2, S3, and VPC.](https://github.com/jhatton1/terraform_projects)
+  - Utilized Terraform to create various AWS [resources](https://github.com/jhatton1/terraform_projects) such as EC2, S3, and VPC.
 
 <h2>🔒 Cybersecurity Projects</h2>
  
 <b> SIEM Lab Project</b>
    
-  * [Practicing with SIEM tools and Azure](https://github.com/jhatton1/SIEM-Project/blob/main/README.md)
+  * Practicing with [SIEM tools](https://github.com/jhatton1/SIEM-Project/blob/main/README.md) and Azure
 
 <b> Vulnerability Management and Remediation</b>  
-  * [Practicing Vulnerability Management with Nessus](https://github.com/jhatton1/Vulnerablity-MGMT-Lab/blob/main/README.md)
+  * Practicing [Vulnerability Management](https://github.com/jhatton1/Vulnerablity-MGMT-Lab/blob/main/README.md) with Nessus.
 <h2>📋 Certifications:</h2>
   
  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1763751f-9b01-4861-bdb5-05c92dd1dc66/public_url)
@@ -31,18 +47,3 @@
 
 
 [linkedin]: https://linkedin.com/in/jh1066
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
