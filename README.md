@@ -3,7 +3,7 @@
 <h2> :computer: Software Development Projects: </h2>
 <b>Web Portfolio</b>
 
-  - Created and deployed an interactive web [portfolio](https://jeremy-web-portfolio.netlify.app/) showcasing comprehensive details on my background as well as three projects with brief descriptions, Githup repository, and live deployment links.
+  - Created and deployed an interactive web [portfolio](https://jeremy-web-portfolio.netlify.app/) showcasing comprehensive details on my background as well as three projects with brief descriptions, Github repository, and live deployment links.
 
 <b>Fullstack Crud Application</b>
 
